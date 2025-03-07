@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Teoría de Cuerdas</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f4;
+            color: #333;
+            margin: 0;
+            padding: 0;
+        }
+        header {
+            background-color: #333;
+            color: #fff;
+            padding: 20px;
+            text-align: center;
+        }
+        h1 {
+            margin: 0;
+        }
+        .container {
+            max-width: 800px;
+            margin: 20px auto;
+            padding: 20px;
+            background-color: #fff;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        h2 {
+            color: #333;
+        }
+        p {
+            line-height: 1.6;
+        }
+        .image-container {
+            text-align: center;
+            margin: 20px 0;
+        }
+        img {
+            max-width: 100%;
+            height: auto;
+        }
+        footer {
+            text-align: center;
+            padding: 10px;
+            background-color: #333;
+            color: #fff;
+            position: fixed;
+            width: 100%;
+            bottom: 0;
+        }
+    </style>
+</head>
+<body>
+
+    <header>
+        <h1>Teoría de Cuerdas</h1>
+    </header>
+
+    <div class="container">
+        <section>
+            <h2>¿Qué es la Teoría de Cuerdas?</h2>
+            <p>
+                La Teoría de Cuerdas es un marco teórico en física que pretende unificar todas las fuerzas fundamentales de la naturaleza, incluyendo la gravedad, en una sola teoría. En lugar de partículas puntuales, la teoría propone que los componentes básicos del universo son "cuerdas" unidimensionales que vibran a diferentes frecuencias.
+            </p>
+        </section>
+
+        <section>
+            <h2>Conceptos Clave</h2>
+            <ul>
+                <li><strong>Cuerdas:</strong> Objetos unidimensionales que pueden vibrar en diferentes modos.</li>
+                <li><strong>Dimensiones adicionales:</strong> La teoría requiere la existencia de 10 o 11 dimensiones.</li>
+                <li><strong>Supersimetría:</strong> Una simetría teórica entre partículas de fuerza y partículas de materia.</li>
+                <li><strong>Unificación:</strong> Intenta unificar la mecánica cuántica y la relatividad general.</li>
+            </ul>
+        </section>
+
+        <div class="image-container">
+            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/String_theory.svg/1200px-String_theory.svg.png" alt="Ilustración de la Teoría de Cuerdas">
+            <p><em>Ilustración de la Teoría de Cuerdas</em></p>
+        </div>
+
+        <section>
+            <h2>Implicaciones</h2>
+            <p>
+                Si la Teoría de Cuerdas es correcta, podría explicar fenómenos como la naturaleza de los agujeros negros, el Big Bang, y la materia oscura. Sin embargo, aún no ha sido confirmada experimentalmente.
+            </p>
+        </section>
+    </div>
+
+    <footer>
+        <p>&copy; 2023 Teoría de Cuerdas. Todos los derechos reservados.</p>
+    </footer>
+
+</body>
+</html>
